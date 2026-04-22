@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace linq11
+namespace LINQ_ASPNet_Course
 {
 
   
